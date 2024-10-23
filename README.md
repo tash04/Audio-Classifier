@@ -50,7 +50,7 @@ Prepare the extracted features for model training by encoding class labels and s
 1. Evaluate the model on the test set using model.evaluate().
 2. Print the test accuracy.
 
-#### Step 8. Testing New Audio Data
+### Step 8. Testing New Audio Data
 ### Objective: Test the model on new unseen audio data and predict its class.
 #### Steps:
 1. Preprocess the new audio data by extracting MFCC features.
