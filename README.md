@@ -1,4 +1,4 @@
-# Steps
+# Steps involved
 
 ### Step 1. Loading and Visualizing Audio Data
 #### Objective: 
